@@ -1,8 +1,5 @@
 ### Hi, I'm Erick 👋
 
-<!--
-**Erick-Bravo/Erick-Bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on PartsHouse, a parts tracker app for model/serial numbers with awesome log features of dates and such.
 - 🌱 I’m currently learning how to implement OAuth and AWS.
@@ -13,4 +10,3 @@
 - ⚡ Fun facts: 
 - I used to want to become a journalist.
 - I enjoy indoor/outdoor climbing, biking and tennis.
--->
