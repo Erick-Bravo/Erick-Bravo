@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Erick 👋
 
 <!--
 **Erick-Bravo/Erick-Bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on PartsHouse, a parts tracker app for model/serial numbers with awesome log features of dates and such.
+- 🌱 I’m currently learning how to implement OAuth and AWS.
+- 👯 I’m looking to collaborate on a forward-thinking team that is obsessed with technology and innovation.
+- 🤔 Deep thinker.
+- 😄 Smiles all day.
+- 
+- ⚡ Fun facts: 
+- I used to want to become a journalist.
+- I enjoy indoor/outdoor climbing, biking and tennis.
 -->
