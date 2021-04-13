@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" height="300" />
 
-- Hi! My name is Erick bravo and I am a self-motivated and enthusiastic Software Developer from California. 
+Hi! My name is Erick bravo and I am a self-motivated and enthusiastic Software Developer from California. 
 I absolutely love JavaScript ES6, React, Redux, and putting in the time to learn all sorts of new technologies. 
 I have just completed a rigorous and selective Software Development program, where I put in 1000+ hours of intensive learning
 and pair-programming work on a day-to-day basis. My entire career has been so far fully remote and dependent 
@@ -17,10 +17,9 @@ I can't wait contribute to making great products
 with a forward-thinking and successful team of Software Engineers.
 
 
-- 🔭 I’m currently working on PartsHouse, a parts tracker app for model/serial numbers with awesome log features of dates and such.
 - 🌱 I am currently learning Angular, looking into Typescript.
 - 😄 Smiles all day, everyday.
-- 😎 Check out my Portfolio at [erickbravoportfolio.com](https://erickbravoportfolio.com/)!
+- 😎 Check out my Portfolio at [erickbravoportfolio.com](https://erickbravoportfolio.com/)
 <br/><br/>
 - ⚡ Fun facts: 
 - Journalism was my first interest.
