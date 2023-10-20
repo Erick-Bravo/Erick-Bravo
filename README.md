@@ -16,11 +16,11 @@ on zoom calls for meetings and team/client collaborations.
 
 
 
-- 🌱 I am currently working for a great service company called Detroit Labs.
+- 🌱 I am currently laid off due the market conditions.
 - 😄 Smiles all day, everyday.
 - ⚡ Fun facts: 
 - Journalism was my first interest.
-- I enjoy indoor/outdoor climbing, biking and my beloved motorcycle.
+- I enjoy indoor/outdoor climbing.
 
 
 ### Technologies Used
